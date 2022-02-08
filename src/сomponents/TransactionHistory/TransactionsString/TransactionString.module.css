@@ -1,0 +1,7 @@
+.tr_string:nth-child(2n + 1) {
+    background-color: lavender;
+}
+
+.td_string {
+    padding: 10px;
+}

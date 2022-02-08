@@ -1,0 +1,16 @@
+.transaction_history {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 51px 0px rgba(75, 34, 80, 0.2);
+    background-color: snow;
+}
+
+.table_head {
+    background-color: teal;
+}
+
+.table_title {
+    padding: 15px;
+}
