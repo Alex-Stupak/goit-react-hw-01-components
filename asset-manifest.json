@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Alex-Stupak/goit-react-hw-01-components/static/css/main.1d5e6177.css",
+    "main.js": "/Alex-Stupak/goit-react-hw-01-components/static/js/main.658e49da.js",
+    "index.html": "/Alex-Stupak/goit-react-hw-01-components/index.html",
+    "main.1d5e6177.css.map": "/Alex-Stupak/goit-react-hw-01-components/static/css/main.1d5e6177.css.map",
+    "main.658e49da.js.map": "/Alex-Stupak/goit-react-hw-01-components/static/js/main.658e49da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d5e6177.css",
+    "static/js/main.658e49da.js"
+  ]
+}
